@@ -1,0 +1,16 @@
+*{
+
+
+}
+
+.sign-up {
+    background-color: #3882f6;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    padding: 3px;
+    border: none;
+    height: 25px;
+    width: 70px;
+    text-align: center;
+}
