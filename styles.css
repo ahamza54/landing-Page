@@ -1,6 +1,52 @@
-*{
+
+.body{
+    background-color: #1f2937;
+}
+.header {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    /* background-color: #1f2937; */
+    color: #f9faf8;
+}
+.logo-navs {
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.logo,
+.navs button{
+    background: transparent;
+    color: #f9faf8;
+    border: #1f2937 ;
+}
+
+.logo{
+    width:auto ;
+    height: 3rem;
+    border-radius: 30px;
+    flex-grow: 0;
+    margin: 2%;
+}
+
+.navs{
+    justify-content: flex-end;
+    display: flex;
+    gap: 1rem;
+    flex-grow:9;
+    margin: 2%;
 
 
+}
+
+.hero{
+    display: flex;
+}
+
+.hero-text{
+    font-size: 48px, #f9faf8;
+}
+.id-image{
+    w
 }
 
 .sign-up {
